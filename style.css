@@ -7,7 +7,7 @@ body{
     width: 90px;
     height: 90px;
     border: 1px solid black;
-    background: url(/number_puzzle_game_image_no_borders_360x360-1.png);
+    background: url("puzzle.png");
     cursor: pointer;
 }
 
